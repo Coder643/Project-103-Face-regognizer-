@@ -9,7 +9,7 @@
      font-size: 22px;
  }
 
- .name_of_objects,#reult_object_name, #result_object_accuracy{
+ .name_of_memebers,#result_member_name, #result_member_accuracy{
  color:blue;
 
  }
